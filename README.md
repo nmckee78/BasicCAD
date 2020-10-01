@@ -37,8 +37,7 @@ This was my first Onshape part and [following along with Dr. Shields made it sup
 * extruding both add and remove (shortcut key **E**)
 * linear patterns (no shortcut)
 
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-
+* Onshape is really straightforeword and easy to use and I im already getting the hang of it.
 ---
 
 
