@@ -45,14 +45,22 @@ This was my first Onshape part and [following along with Dr. Shields made it sup
 
 ### Description
 
+This assingment is for the mount of the caster. The dimmensions are a 120mm x 120mm rectangle around the origin.
+It has 4 symmetric holes on the corners 10mm in diameter and 20mm from each side (80mm apart from eachother)
+It has a 25mm hole in the center 
+The Mount is 8mm thick
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/6569d56d060eadd743aa209d/w/1e2ac3d9a2a9af60cae6d45c/e/33329cb2d2641e68fe967d2b (This is the link for the mount)
 
 ### Image
 
+![The Mount](images/Mount)
+
 ### Reflection
-
 ---
-
+This is Dr. Shields video its very helpful https://youtu.be/BWDk4BZFXDQ
 
 ## Fork
 
