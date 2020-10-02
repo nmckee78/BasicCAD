@@ -56,7 +56,7 @@ https://cvilleschools.onshape.com/documents/6569d56d060eadd743aa209d/w/1e2ac3d9a
 
 ### Image
 
-<img src="images/Mount.png" alt="The Base" width="500">
+![The Mount](Images/Mount.png)
 
 ### Reflection
 ---
