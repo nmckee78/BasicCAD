@@ -62,6 +62,12 @@ https://cvilleschools.onshape.com/documents/6569d56d060eadd743aa209d/w/1e2ac3d9a
 ---
 This is Dr. Shields video its very helpful https://youtu.be/BWDk4BZFXDQ
 
+A few shortcuts I found useful were:
+* shift+f (Fillet)
+* shift+s (New Sketch)
+* C(Circle)
+
+I struggeled a bit with trying to the linear pattern to work but besides that this piece is quite straightforeword.
 ## Fork
 
 ### Description
