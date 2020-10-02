@@ -102,14 +102,20 @@ This part was a bit diffucult but was fun and looked cool it introduced me to a 
 
 ### Description
 
+The tire is 20mm in width with a 8mm fillet on both sides.
+
 ### Evidence
+
+This is the link to my tire
+https://cvilleschools.onshape.com/documents/6f27ccf5beb64b3e75e13aad/w/11111c72201979ed7de9a134/e/90f968e65906cd25d29b4784
 
 ### Image
 
+![The Tire](Images/Wheel.png)
+
 ### Reflection
-
 ---
-
+The tire was a bit hard to figure out but once you do its quite straightforword. I also used the revolve feature for the first time.
 
 ## Wheel
 
