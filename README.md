@@ -67,19 +67,36 @@ A few shortcuts I found useful were:
 * shift+s (New Sketch)
 * C(Circle)
 
-I struggeled a bit with trying to the linear pattern to work but besides that this piece is quite straightforeword.
+I struggeled a bit with trying to get the linear pattern to work but besides that this piece is quite straightforeword.
 ## Fork
 
 ### Description
+The fork is a circle with a 80mm diameter and is 8mm thick.
+It has two prongs that are 40mm long and 5mm wide and are 15mm away from the origin and 75mm tall.
+They have two fillets on both sides on the top that are both 15mm it also has a 1mm fillet on the edge of both sides.
+It has a 4mm fillet on the bottom of the prong that should indent into the circle.
+Both prongs have a hole that is 10mm in diameter and 15mm away from the top of the prong.
+On the other side of the circle there is a cylinder that has a 15mm diameter on the interior and a 20mm on the exterior. It should also be 60mm tall
+There is a 1mm chamfer on the top of the culinder and on both edges of the base circle.
 
 ### Evidence
 
+This is the link to my Fork
+https://cvilleschools.onshape.com/documents/b9abd8a8c96458549a2366f1/w/1c919615822069802a562284/e/80b2d2733a2d1e8eace3f521
+
+
 ### Image
 
+![The Fork](Images/Fork.png)
+
 ### Reflection
-
 ---
+This is a very helpful video from Dr. Shields https://youtu.be/wQlTfOw8rYQ
 
+Here are a few shortcuts I found useful for this part:
+* Shift+E(Extrude)
+
+This part was a bit diffucult but was fun and looked cool it introduced me to a bunch of new features on onshape.
 
 ## Tire
 
