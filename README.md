@@ -132,7 +132,7 @@ it has 5 60 degree spokes in the center and has a 4mm fillet on all of the inter
 
 ### Reflection
 
-This part was pretty difficult I found that the reovle feature is very useful.
+This part was pretty difficult I found that the revolve feature is very useful.
 
 ---
 
