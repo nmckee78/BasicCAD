@@ -115,6 +115,8 @@ The tire is 20mm in width with a 8mm fillet on both sides.
 ---
 The tire was a bit hard to figure out but once you do its quite straightforword. I also used the revolve feature for the first time.
 
+This is a very helpful video from Dr. Shields https://youtu.be/ReEGioIYSus
+
 ## Wheel
 
 ### Description
@@ -134,6 +136,8 @@ it has 5 60 degree spokes in the center and has a 4mm fillet on all of the inter
 
 This part was pretty difficult I found that the revolve feature is very useful.
 
+This is a very helpful video from Dr. Shields https://youtu.be/RKeALFyqSGw
+
 ---
 
 
@@ -141,10 +145,21 @@ This part was pretty difficult I found that the revolve feature is very useful.
 
 ### Description
 
+The axle is a 6 by 10 cylinder with a 4.5mm indent on both sides that is 10mm deep.
+The collar is a 15mm cylinder on one side of the axle with a 3mm hole through one side.
+
 ### Evidence
+
+[The axle and collar in onsahpe](https://cvilleschools.onshape.com/documents/d0b9ed4fd108232787cc69e2/w/98a8f05baaf3db09c77ae6c6/e/e78122e187a1ae89ddd4c6dc)
 
 ### Image
 
+![The Axle and Collar](Images/Axleandcollar.PNG)
+
 ### Reflection
+
+This part is quite easy and straightforward.  
+
+This is a very helpful video from Dr. Shields https://youtu.be/2r7YqGuF1vY
 
 ---
