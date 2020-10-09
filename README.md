@@ -128,7 +128,7 @@ it has 5 60 degree spokes in the center and has a 4mm fillet on all of the inter
 
 ### Image
 
-![The Wheel](Image/Wheelandbearing.PNG)
+![The Wheel](Images/Wheelandbearing.PNG)
 
 ### Reflection
 
