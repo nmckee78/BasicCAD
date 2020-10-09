@@ -52,7 +52,7 @@ The Mount is 8mm thick
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/6569d56d060eadd743aa209d/w/1e2ac3d9a2a9af60cae6d45c/e/33329cb2d2641e68fe967d2b (This is the link for the mount)
+[The mount in onshape](https://cvilleschools.onshape.com/documents/6569d56d060eadd743aa209d/w/1e2ac3d9a2a9af60cae6d45c/e/33329cb2d2641e68fe967d2b)
 
 ### Image
 
@@ -81,8 +81,7 @@ There is a 1mm chamfer on the top of the culinder and on both edges of the base 
 
 ### Evidence
 
-This is the link to my Fork
-https://cvilleschools.onshape.com/documents/b9abd8a8c96458549a2366f1/w/1c919615822069802a562284/e/80b2d2733a2d1e8eace3f521
+[The fork in onshape](https://cvilleschools.onshape.com/documents/b9abd8a8c96458549a2366f1/w/1c919615822069802a562284/e/80b2d2733a2d1e8eace3f521)
 
 
 ### Image
@@ -106,8 +105,7 @@ The tire is 20mm in width with a 8mm fillet on both sides.
 
 ### Evidence
 
-This is the link to my tire
-https://cvilleschools.onshape.com/documents/6f27ccf5beb64b3e75e13aad/w/11111c72201979ed7de9a134/e/90f968e65906cd25d29b4784
+[The tire in onshape](https://cvilleschools.onshape.com/documents/6f27ccf5beb64b3e75e13aad/w/11111c72201979ed7de9a134/e/90f968e65906cd25d29b4784)
 
 ### Image
 
@@ -121,11 +119,20 @@ The tire was a bit hard to figure out but once you do its quite straightforword.
 
 ### Description
 
+The wheel is 20mm wide and 5mm thick.
+it has 5 60 degree spokes in the center and has a 4mm fillet on all of the interior edges of the wheel.
+
 ### Evidence
+
+[The wheel in onshape](https://cvilleschools.onshape.com/documents/24f22ca157bd29e2743d3b1d/w/7387a3bbc34f080c06f1851d/e/cb359ce2812501a245d84057)
 
 ### Image
 
+![The Wheel](Image/Wheelandbearing.PNG)
+
 ### Reflection
+
+This part was pretty difficult I found that the reovle feature is very useful.
 
 ---
 
