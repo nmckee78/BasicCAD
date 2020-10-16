@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-Assembly](#Sub-Assembly)
 
 ## Base
 
@@ -161,5 +162,27 @@ The collar is a 15mm cylinder on one side of the axle with a 3mm hole through on
 This part is quite easy and straightforward.  
 
 This is a very helpful video from Dr. Shields https://youtu.be/2r7YqGuF1vY
+
+---
+
+
+## Sub-Assembly 
+
+### Description
+The Sub-Assembly is the Wheel and the Tire assembled together with the axle running through it bound by two bearings. 
+
+### Evidence
+
+[The Sub-Assembly](https://cvilleschools.onshape.com/documents/e31343dfd5cb3085158dd5ff/w/b13f4ac23bffe656b0c6f53a/e/5e826f794c6b5382d9210260)
+
+### Image
+
+![The Sub-Assembly](Images/SubAssembly.PNG)
+
+### Reflection
+
+This was my first part in onshape I found that the revolute and fasten mate are the most useful.
+
+This is a very helpful video from Dr. Shields https://youtu.be/R4PDBd8H5h8
 
 ---
