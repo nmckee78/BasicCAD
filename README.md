@@ -12,6 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
+* [Assembly](#Assembly)
 
 ## Base
 
@@ -173,7 +174,7 @@ The Sub-Assembly is the Wheel and the Tire assembled together with the axle runn
 
 ### Evidence
 
-[The Sub-Assembly](https://cvilleschools.onshape.com/documents/e31343dfd5cb3085158dd5ff/w/b13f4ac23bffe656b0c6f53a/e/5e826f794c6b5382d9210260)
+[The Sub-Assembly in onshape](https://cvilleschools.onshape.com/documents/e31343dfd5cb3085158dd5ff/w/b13f4ac23bffe656b0c6f53a/e/5e826f794c6b5382d9210260)
 
 ### Image
 
@@ -184,5 +185,28 @@ The Sub-Assembly is the Wheel and the Tire assembled together with the axle runn
 This was my first part in onshape I found that the revolute and fasten mate are the most useful.
 
 This is a very helpful video from Dr. Shields https://youtu.be/R4PDBd8H5h8
+
+---
+
+
+## Assembly 
+
+### Description
+
+This is the fully assemble caster with the sub-assembly, fork, mount and base along with the axle and multiple bearings
+
+### Evidence
+
+[The Assembly in onshape](https://cvilleschools.onshape.com/documents/e147ae1b11f7a834771d3493/w/cde270bea04515d90c74725f/e/bb44f75fcc878c85b7be4c74)
+
+### Image
+
+![The Assembly](Images/Assembly.PNG)
+
+### Reflection
+
+I really enjoyed onshape and the caster was a really fun way to learn how to use it I found that espically assembling things is 100 times easier in onshape then other CAD programs
+
+This is a very helpful video from Dr. Shields https://youtu.be/orcp-asikM4
 
 ---
